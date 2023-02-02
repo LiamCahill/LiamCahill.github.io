@@ -5,7 +5,9 @@ export const projects = [
     description:
       "Coded a solution to automate the creation of JSON forms from Excel/PDF files. Increased productivity by removing the need for forms to be hard-coded.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    //I would like to add the following gif
+    //<iframe src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa">via GIPHY</a></p>
+    link: "https://giphy.com/embed/KAq5w47R9rmTuvWOWa",
   },
   {
     title: "Next Book",
