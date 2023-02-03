@@ -11,7 +11,7 @@ export const projects = [
   },
   {
     title: "Next Book",
-    subtitle: "Python",
+    subtitle: "Find your next book",
     description:
       "Coded a simple project to find and buy my next book. The program takes a book from my current list at random, launches Google Chrome, and searches for it on Amazon.",
     image: "./project-2.gif",
@@ -19,7 +19,8 @@ export const projects = [
   },
   {
     title: "Cahill Complimentary Service",
-    subtitle: "Java, Postgres",
+    subtitle:
+      "Send compliments anonymously to promote a more supportive environment with Java and Postgres",
     description: "",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
