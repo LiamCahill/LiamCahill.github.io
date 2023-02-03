@@ -17,6 +17,13 @@ export const projects = [
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
+  {
+    title: "Cahill Complimentary Service",
+    subtitle: "Java, Postgres",
+    description: "",
+    image: "./project-2.gif",
+    link: "https://reactbootcamp.com",
+  },
 ];
 
 export const testimonials = [
