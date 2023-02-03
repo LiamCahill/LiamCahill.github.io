@@ -19,9 +19,9 @@ export const projects = [
   },
   {
     title: "Cahill Complimentary Service",
-    subtitle:
-      "Send compliments anonymously to promote a more supportive environment with Java and Postgres",
-    description: "",
+    subtitle: "Java, Postgres",
+    description:
+      "Compliment anonymously to promote a more supportive environment",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
