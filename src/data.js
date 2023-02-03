@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: "Cahill Complimentary Service",
-    subtitle: "Java, Postgres",
+    subtitle: "Spread Positivity",
     description:
       "Compliment anonymously to promote a more supportive environment",
     image: "./project-2.gif",
