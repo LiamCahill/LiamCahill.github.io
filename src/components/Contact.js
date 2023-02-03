@@ -40,7 +40,7 @@ export default function Contact() {
             src="https://www.google.com/maps/embed/v1/place?q=10+Krey+Blvd,+Rensselaer,+NY,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-            <div className="lg:w-1/2 px-20">
+            <div className="lg:w-2/3 px-10">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
