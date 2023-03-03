@@ -12,9 +12,10 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed">
             Professional Java developer with backend experience in Oracla SQL
-            and Postgres. Enthusiastic about builing tools to increase
-            productivity for my team, historically in Python, and starting to
-            dabble in Rust.
+            and Postgres. Familiar with Apache Hadoop storage and processing
+            solutions like HDFS, Sqoop, and Spark. Enthusiastic about builing
+            tools to increase productivity for my team, historically in Python,
+            and starting to dabble in Rust.
           </p>
           <div className="flex justify-center">
             <a
